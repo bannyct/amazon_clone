@@ -1,2 +1,3 @@
 # amazon_clone
-https://bannyct.github.io/amazon_clone/
+
+https://amazon-clone-five-mu.vercel.app/
